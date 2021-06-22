@@ -5,4 +5,4 @@ En este repositorio encontrarás las prácticas y ejercicios que haremos del cur
 ## Módulo 1
 [Práctica 1](https://colab.research.google.com/drive/1p4TyjHLJayWpDMMY7CjPdAHwGw_rTwUL?authuser=1&hl=es#scrollTo=IUyOeBw6n1Dy)
 
-[](Socialmedia.PNG)
+![](Socialmedia.PNG)
